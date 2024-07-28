@@ -16,7 +16,7 @@ public class Bot extends TelegramLongPollingBot {
     }
 
     public String getBotToken() {
-        return "7233434390:AAG_iLZa8Qpvb0vjY55AZXN9LlqnOarHzDA";
+        return "secretToken From telegram";
     }
 
     public void setDistancia(int distancia) {
